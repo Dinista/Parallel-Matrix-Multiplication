@@ -14,4 +14,6 @@ An portuguese article was written analyzing the performance of the parallel impl
 
 The matrix multiplication problem is embarrassingly parallel, which means there is no need for interthread communications. It's also a data parallelism problem, so each thread will perform the same task, but on different data.
 
+### How it works
+
 ## How to use
